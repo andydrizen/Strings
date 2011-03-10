@@ -1,5 +1,5 @@
 ################################################################################
-# JSONGAP/lib/StringFunctions.g                                 Andy L. Drizen
+# Strings/lib/StringFunctions.g                                 Andy L. Drizen
 #                                                                   26/02/2011
 # File overview:
 #
