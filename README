@@ -1,0 +1,18 @@
+A string library for GAP.
+
+0. Licence
+
+	See licence.txt
+
+1. Installation
+
+	1.1 Requirements
+		
+		Just GAP.
+
+	1.2 
+
+		To initialise the Strings Package, put the Strings folder in the pkg director of your GAP 
+		root and in GAP type:
+
+		gap> LoadPackage("Strings");
