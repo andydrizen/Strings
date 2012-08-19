@@ -29,12 +29,14 @@ Quick Start
 
 Returns the starting position of `needle` contained in `haystack`. Returns `-1` if the `needle` is not a substring of the `haystack`. 
 
+### substr( str, start, length )
+
 Returns a substring of `str` starting from `start` for `length` characters.
 
 
 ### str\_replace( find\_string, replace\_string, haystack )
 
-Replaces all occurrences of some `find\_string` with another `replace\_string` in `haystack`.
+Replaces all occurrences of some `find_string` with another `replace_string` in `haystack`.
 
 
 ### FindMatchingBracket( str, open, close )
