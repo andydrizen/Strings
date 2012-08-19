@@ -1,4 +1,4 @@
-JSONGAP
+Strings
 =======
 
 A string manipulation library for GAP.
